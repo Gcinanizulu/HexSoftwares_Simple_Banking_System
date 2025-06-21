@@ -1,0 +1,29 @@
+# IDE Related
+.vscode/
+
+# Java Related
+bin/
+out/
+tests/
+style/
+*.class
+*.ser
+
+# Test Results
+results.json
+*.ods*
+
+# Python Related
+__pycache__/
+.venv/
+
+# System Files
+.DS_Store
+.swp
+.*nfs*
+
+# Misc
+*.log
+*.jar
+*.pdf
+*.xml
